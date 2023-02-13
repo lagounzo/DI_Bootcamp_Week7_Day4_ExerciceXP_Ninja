@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="DI_Bootcamp_Week7_Day4_ExercisesXPNinja-main/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
